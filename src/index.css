@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+@font-face {
+  font-family: "CB";
+  src: url("./font/OtenbaGothicTTF-Regularのコピー.ttf") format("truetype");
+}
+span{
+  font-family: "CB" ;
+  font-size:  2.7rem;
+}
